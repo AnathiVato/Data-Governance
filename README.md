@@ -28,7 +28,7 @@ Data-Governance-Focuses on people & their behavors
     * Data warehouses & lakes
     * APIs
     * Analytics software,encryption
-    * *Data crunching
+    * Data crunching
     * Architectural design.
    
       # DATA GOVERNANCE ADVANTAGES
