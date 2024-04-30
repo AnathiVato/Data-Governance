@@ -30,8 +30,40 @@ Data-Governance-Focuses on people & their behavors
     * Analytics software,encryption
     * *Data crunching
     * Architectural design.
-    * 
+   
       # DATA GOVERNANCE ADVANTAGES
+-Improved data quality
+-Expanded data value
+-Increased data compliance
+-Improved data-driven decision-making
+-Enhanced business performance
+-Greater sharing and use of data across the enterprise and externally
+-Increased data availability and accessibility
+-Improved data search
+-Reduced risks from data-related issues
+-Reduced data management costs
+-Established rules for handling data
+      
+# STEPS FOR CREATING A DATA GOVERNANCE PROGRAM
+1.Defining the vision, goals, and benefits.
+2.Analyzing the current state of data governance and management.
+3.Developing a proposal based on the first two steps, including a draft plan.
+4.Achieving leadership approval.
+5.Designing and developing the program.
+6.Implementing the program.
+7.Monitoring and measuring performance.
+8.Maintaining the program.
+# COMPONENTS OF DATA GOVENANCE FRAMEWORK:
+* Leadership & strategy- data governance must be aligned with the organization's strategy.
+* Roles & responsibilites- from IT team to data steward( data governance role)
+* Policies, Processes & Standards- must be designed ,developed & delpoyed.
+* Metrics-measurement to track progress.
+* Tools -for Data managemnt catalogs, search, integration, analytics & compliance.
+* Communication & colaboration.
+ # DATA CULTURE 
+ - organizational culture that prioritizes data-driven decision making
+ - Defines how organization values data, manage & use it.
+  
       
      
     
