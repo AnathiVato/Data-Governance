@@ -63,6 +63,48 @@ Data-Governance-Focuses on people & their behavors
  # DATA CULTURE 
  - organizational culture that prioritizes data-driven decision making
  - Defines how organization values data, manage & use it.
+   
+   # CHAPTER 3: Exploring a world overflowing with data
+   Data- collection of digitally stored units.
+   Datum- single units of data.
+   Data -multiple units of data.
+
+   CATEGORIES OF DATA
+   -Structured-formatted data to set structure . E.G Spreadsheet
+   -Unstructured- Raw data.Include email content & social media posts. E.G text file ,photos & videos.
+   -Semi-structured-Contains additional information to enable the native format to be searched & analyzed. E.G HTML,XML ,webpages & Zip files.
+   1 Zettabyte =1000 Exabyte ( 1 with 21 zeros after it )
+
+   DATA TYPES:
+   -Qualitative-text- Nominal & Ordinal
+   -Quantitative- numbers- Discrete( countable) & Continous(measurable)
+
+   Datasphere- describes all the data created.
+   Terabytes-X-rays in a large hospital.
+
+   Data to insights
+   Data-Knowledge-Wisdom-Insight
+
+   # Role of Data
+   * Helped us undestand the world in completely new ways
+   * *Improved our ability to make better-informed decisions.
+   * Support our efforts to sovle problems.
+
+     # Data-driven decision making
+     -Example- Reviews
+     Data needs to be organized, analyzed, make decision, identify problems & feed other systems.
+
+     Data Owner: describes the rights a person, team or organization has over one or more data set
+
+     # Data Architecture
+     -Ensures data is available to those who need it &approved to use it.
+     -Reducing the complexity of accesing & utilizing data.
+     -Creating & enforcing data protection
+     -Adopting & agreeing to data standards
+     -Optimizin the flow & effective use of data.
+   
+
+   
   
       
      
