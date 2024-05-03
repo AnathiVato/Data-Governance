@@ -102,6 +102,47 @@ Data-Governance-Focuses on people & their behavors
      -Creating & enforcing data protection
      -Adopting & agreeing to data standards
      -Optimizin the flow & effective use of data.
+
+     # Lifecycle data
+     -Creation- data creation manually/automatically( internally /externally)
+     -Storage-Data must be stored in DB ,could be in local Hard Drive, server or cloud
+     -Usage- Should be cleaned for errors, transform to another format
+     -Archival-move data to a long term storage & can be retrieved when needed
+     -Destruction-Making data inaccessible & unreadable
+
+     # Impact of Big data
+     IBM - used to automate data without errors.
+
+     Big Data
+     -Structured/Unstructured data that is massive & complex in scale
+
+     Characterize big data
+     -Volume
+     -Variety
+     -Velocity
+     -Variability
+     Veracity-Quality
+
+       # CHAPTER 3 !!! Driving value through Data
+     *Organization operations include:
+     -payroll, Order management &marketing
+     -These operation use data to :
+     *Make decisions
+     *Enable systems to run
+     *Deliver data to internal & external entities
+
+     Monitoring
+     -Process of collecting & evaluating the performance.
+     # Roles of Data
+     * Operations
+     * Strategy
+     * Decision-making
+     * Measuring
+     * Monitoring
+     * Insight management
+     * Reporting
+
+     
    
 
    
