@@ -141,7 +141,24 @@ Data-Governance-Focuses on people & their behavors
      * Monitoring
      * Insight management
      * Reporting
+     * AI
+     * Problem solving
+     * Data re use
 
+     Asset-something that is owned by a person,an organization or government.
+     -It can be tangible/ intangible.
+     # Data Architecture: process of examining data in order to produce answers or find conclusions
+  
+     # Types of Data Architecture
+     * Descriptive
+     * Diagnostic
+     
+     # Steps for Data Architecture process
+     -Data mining
+     -Data cleansing
+     -Statistical analysis
+     -Data presentation
+ 
      
    
 
