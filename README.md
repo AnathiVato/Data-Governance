@@ -149,11 +149,11 @@ Data-Governance-Focuses on people & their behavors
      -It can be tangible/ intangible.
      # Data Architecture: process of examining data in order to produce answers or find conclusions
   
-     # Types of Data Architecture
+     # Types of Data Analytics
      * Descriptive
      * Diagnostic
      
-     # Steps for Data Architecture process
+     # Steps for Data Analytics process
      -Data mining
      -Data cleansing
      -Statistical analysis
