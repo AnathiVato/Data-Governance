@@ -152,12 +152,38 @@ Data-Governance-Focuses on people & their behavors
      # Types of Data Analytics
      * Descriptive
      * Diagnostic
+     * Predictive
+     * Prescriptive
      
      # Steps for Data Analytics process
      -Data mining
      -Data cleansing
      -Statistical analysis
      -Data presentation
+
+     # Data management process
+     -Collection
+     -Storage
+     -Organization
+     -Maintainance
+     -Analytics of an organization
+     
+Data management responsibilities :
+*data standardization
+*Encryption
+*Archiving
+
+Governing Data
+-Some level of control exists to support a related policy.
+# Essential features for the success of governing data
+-People
+-Policy
+-Metrics
+
+
+
+     
+     
  
      
    
