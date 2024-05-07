@@ -180,6 +180,64 @@ Governing Data
 -Policy
 -Metrics
 
+# CHAPTER 4!!! Transforming through data
+
+DATA GOVERNANCE: also helps to eliminate unnecessary data silos.
+Essintial reasons for availability of data:
+
+-Better informed decision-making.
+-Ensuring compliance and regulatory requirements.
+-Lower costs by avoiding duplicate system and data efforts.
+-Improved data analytics and reporting.
+-Higher performing systems.
+-More efficient operations.
+-Reducing data inconsistencies across the enterprise.
+
+# Data catalogs -inventory of an organisation's data assets.
+Search engine-provides the location of data
+
+Benefits of Data Catalogs:
+* Finding data-users can identify & locate data
+* Understanding data-answers a variety of data questions
+* Making data more useful-creates visibility,describes values & provides access to information.
+
+It also delivers a comprehensive inventory that provides an enterprise view of all data. Contains data about data CALLED Metadata.
+
+Components of data catalog(list of data assets)
+-Data Visualization
+-Data Assessment
+-Data collaboration
+-Data Governance
+-Administrator
+-Automation & machine learning
+
+3 TYPES OF METADATA
+*Technical
+*Business
+*Operational
+
+# EXAMPLES OF METADATA
+Associated systems.
+File names.
+File locations.
+Data owners.
+Data descriptions.
+Dates created.
+Dates last modified.
+List of database tables and views.
+Data stewards.
+Size of data sets.
+Quality score.
+Comments.
+
+# With a data catalog, an organization can:
+
+Know what data it has (and by extension, know what data is missing).
+Reduce data duplication.
+Increase operational efficiencies and innovation.
+Understand data quality.
+Manage compliance.
+Enjoy cost savings from improved operations.
 
 
      
