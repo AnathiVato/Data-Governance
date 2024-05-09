@@ -232,12 +232,50 @@ Comments.
 
 # With a data catalog, an organization can:
 
-Know what data it has (and by extension, know what data is missing).
-Reduce data duplication.
-Increase operational efficiencies and innovation.
-Understand data quality.
-Manage compliance.
-Enjoy cost savings from improved operations.
+-Know what data it has (and by extension, know what data is missing).
+-Reduce data duplication.
+-Increase operational efficiencies and innovation.
+-Understand data quality.
+-Manage compliance.
+-Enjoy cost savings from improved operations.
+
+Acquiring & applying insight from data means : Dimensions
+* Context- understanding the environment
+* Need- determine how insights will help to accomplish the objective
+* Vision-having ideas about how insights will help.
+* Outcome-specify how insights will be adopted & success will be measured
+
+  # Dimension can be used to answer questions such as:
+  -Whats is required
+  -Does that data exist?
+  -Is it current?
+  -Is it easily availaable ?
+  -What format is the data in?
+  -What kind of data analysis is required?
+  -How will the data be presented?
+
+  Data Analysis: identifies dataset, examine it, report on the findings.
+  Data Analytics:
+  -Collecting
+  -Cleaning
+  -organizing
+  -Storing
+  -Administering
+  -Analyzing
+
+  # The source of data for analytics
+  * First-party data
+  * Second-party data
+  * Third-party data
+ 
+    DA tools & techniques
+    -Vastly improved decision-making
+    -Focused marketing campaigns
+    -Understanding the competitive landscape
+    -Designing more innovative products
+    -Better customer service
+    -improved operations
+    -insights on customer behaviour
 
 
      
