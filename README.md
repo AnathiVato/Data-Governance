@@ -277,6 +277,76 @@ Acquiring & applying insight from data means : Dimensions
     -improved operations
     -insights on customer behaviour
 
+    Data valuation- value given dataset may be highly subjective & may differ considerably between the perspectives of team members
+
+    Monetization-When data provides an economic benefit to an organization.
+    # Method to determine data valuation:
+    -Cost value method
+    -Market value approach
+    -Economic value approach
+    -With -and - without method
+
+    Managing Asset called # Data Set Management
+
+    # Importance of derivng from data
+    -The ability to make better, more-informed decisions
+
+    DDDM: process of using data to drive business decisions.
+    For DDDM to contribute high performance, an organization needs (Data Culture), tools & specific skills.
+    (Data Culture)- beliefs & behaviour of people in an organization.
+
+    Tools include:
+    -Power Bi
+    -Tableau
+    -Excel
+    -Python
+    -R
+    -Google sheets etc
+
+    # Core functions of data governance
+    * Data security
+    * Data-use policies
+
+      # Step process o data-driven decision making:
+      * Identify the objectives
+      * Identify data
+      * Prepare data
+      * Analyze data
+      * Determine the findings
+      * Take action
+
+        # DEVELOPING A DATA STRATEGY
+        Purpose of data strategy
+        -To agree on a set of guiding principles that inform decision-making in support of desired outcome.
+
+         # creating data strategy !!!
+        Characteristics of strategy :
+        -Data maturity - when organization already uses & optimize data & has experience skills
+        -Industry & size - data prioritization through frameworks
+        # Two frameworks
+        * Defense- deals with data security & quality
+        * offense-used data for insights management & market-facing initiatives.
+
+          Data requirement for data strategy:
+          *Identify:  To find and make data usable, it must be clearly defined and described. This includes a file name, a file format, and metadata.
+          *Store:  Design and develop the capabilities for supporting the place and process for hosting data and how it will be shared, accessed, and processed.
+          *Provision:  Determine the processes to share and reuse data and define the guidelines for access.
+          *Process:  Raw data must be transformed to become valuable. This includes processes for data cleansing, standardization, and integration with other data sets.
+          *Govern: Institute processes to manage and communicate data policies for data use within the organization.
+
+          # Data strategy components
+          -Aligment with the business
+          _ Identify roles & responsibilities
+          -Data Architecture
+          -Data Management
+          Monitoring the data strategy means:
+          Giving feedback regularly from participants & auditing related outcomes.
+        
+        
+
+    
+    
+
 
      
      
